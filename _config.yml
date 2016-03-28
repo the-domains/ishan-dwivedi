@@ -1,0 +1,28 @@
+name: Ishan Dwivedi
+favicon: null
+layout_spectrum: 0.7761198261287063
+typography_spectrum: 0.3349950488191098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10945681878365576
+  lightness: 0.49900380428880453
+  saturation: 0.872464792104438
+  rhythmicContrast: 0.4429128949996084
+purpose: []
